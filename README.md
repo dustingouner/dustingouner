@@ -23,7 +23,9 @@
 
 ## About Me:
 
-Front-end software developer, with extensive finance and real estate experience. Seeking new challenges, I am motivated to transition to a dynamic and stimulating environment. With a strong background in project management, acquisitions, and due diligence, I am confident in my ability to quickly adapt and learn. I possess excellent problem-solving skills, attention to detail, and thrive in collaborative team settings, making me well-suited for a Front-end software development role.
+As a front-end software engineer, my passion lies in creating unique and user-friendly applications that solve real-world problems. I am a motivated individual who loves to take on new challenges and constantly push myself to learn and grow. Before transitioning to software engineering, I spent the majority of my working career in finance, real estate, and construction. This experience has honed my problem-solving skills and attention to detail, while also teaching me the importance of team collaboration in achieving success.
+
+Since making the switch to software engineering, I have been eager to explore new technologies and techniques to improve my skills. I am a quick learner and thrive in dynamic and challenging environments. As I continue on this career path, I am excited to continue pushing myself further and creating innovative solutions to real-world problems.
 
 <p>
    <a href="https://www.linkedin.com/in/dustin-gouner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
