@@ -23,9 +23,11 @@
 
 ## About Me:
 
-As a front-end software engineer, my passion lies in creating unique and user-friendly applications that solve real-world problems. I am a motivated individual who loves to take on new challenges and constantly push myself to learn and grow. Before transitioning to software engineering, I spent the majority of my working career in finance, real estate, and construction. This experience has honed my problem-solving skills and attention to detail, while also teaching me the importance of team collaboration in achieving success.
+As a front-end software engineer, I am passionate about creating unique and user-friendly applications that address practical challenges. With a strong background in finance, real estate, and construction, I bring a diverse skill set that includes problem-solving, attention to detail, and collaborative teamwork.
 
-Since making the switch to software engineering, I have been eager to explore new technologies and techniques to improve my skills. I am a quick learner and thrive in dynamic and challenging environments. As I continue on this career path, I am excited to continue pushing myself further and creating innovative solutions to real-world problems.
+Since transitioning to software engineering, I have actively pursued opportunities to enhance my skills and stay updated with emerging technologies. I thrive in dynamic and challenging environments, and my quick learning ability allows me to adapt and excel.
+
+With a genuine drive for personal and professional growth, I am excited to continue pushing my boundaries and developing innovative solutions that have a real impact. I am confident that my experience, motivation, and dedication make me a valuable asset to any team.
 
 <p>
    <a href="https://www.linkedin.com/in/dustin-gouner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -45,12 +47,12 @@ Since making the switch to software engineering, I have been eager to explore ne
 <p>
 <!--   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<!--   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<!--  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
