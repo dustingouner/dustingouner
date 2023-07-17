@@ -1,8 +1,5 @@
 <!-- ### Hi there 👋 -->
-<div align=center>
-<!--    <img height="250em" alt="Joe Rupp Design logo" src="https://user-images.githubusercontent.com/96392562/167263408-cb18367b-fef5-463d-8439-f79219a7af20.png"> -->
-<!--   <img alt="Joe Rupp Design logo over black topo map pattern" src="https://user-images.githubusercontent.com/96392562/165578421-5886ccef-806d-4448-a25d-b30a56cb9d72.png"> -->
-</div>
+
 
 <h1 align='center'>Hey there <img width="30em" height="30em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 </h1>
@@ -47,7 +44,7 @@ With a genuine drive for personal and professional growth, I am excited to conti
 <p>
 <!--   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<!--  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
+ <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
 <!--   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> -->
